@@ -26,5 +26,8 @@ class CustomUser(AbstractUser):
     pass
 ```
 
+About AbstractBaseUser: https://docs.djangoproject.com/en/3.2/topics/auth/customizing/#django.contrib.auth.models.AbstractBaseUser
+About BaseUserManager: https://docs.djangoproject.com/en/3.2/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager
+About PermissionsMixin: https://docs.djangoproject.com/en/3.2/topics/auth/customizing/#django.contrib.auth.models.PermissionsMixin
 
 
